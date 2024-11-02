@@ -4,6 +4,6 @@ Este proyecto es un sistema de gestión de empleados que permite realizar operac
 
 ## Instalación
 
-1. Clona el repositorio en tu máquina local.
+1. Clonar el repositorio en el computador
    ```bash
    git clone https://github.com/Diego069-ux/Repositorio.git
